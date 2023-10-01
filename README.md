@@ -13,7 +13,7 @@ visitID    |     DOB        |    country    |    gender
 222        | 2000-01-31|    USA        | Female        
 
 visit_data
-visitID    |    visit_date    |    form_submitted?
+visitID    |    visit_date    |    form_submitted
 111        |    2022-07-22    |    Yes
 111        |    2022-06-13    |    No
 222        |    2022-04-13    |    Yes    
